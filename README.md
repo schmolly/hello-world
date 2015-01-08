@@ -1,4 +1,4 @@
 # hello-world
-# getting started exercise
+getting started exercise
 
 Hello, world! I am playing with GitHub.
